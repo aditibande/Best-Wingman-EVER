@@ -45,14 +45,14 @@ Welcome to the Chatbot Features Documentation! Here, we’ll walk you through th
 ## 4. *Generate Test Cases for This Code*
    *Ever written a function and wondered if it works for all possible scenarios?*  
    - Are you a QA tester tired for writing basic test cases? Want to make sure your code survives the death of **EDGE CASES**?
-   - Wingman has got your back! Will generate the testcases as well as edge cases to maek sure your code will **NOT** fail!
+   - Wingman has got your back! Will generate the testcases as well as edge cases to make sure your code will **NOT** fail!
 
 
 ![test case generation](https://github.com/user-attachments/assets/f8361ea9-ca35-4c00-aacc-2e0e606de190)
 
 ## 5. *Review the Selected Code*
    *Worried your code might have hidden bugs or inefficiencies?*  
-   - Need a second opinion or an experts help to make sure you did not write a infinite loop?
+   - Need a second opinion or an experts help to make sure you did not write an infinite loop?
    - Wingman will give its opinion with keeping in the mind the **best practices** and **optimization techniques**!
 
 
